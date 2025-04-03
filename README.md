@@ -13,7 +13,7 @@
 
 -Paso 5: Ejecutar la API que está en el archivo API.ipynb
 
-##Especificacion minimas: 
+## Especificacion minimas: 
 
 -Windows 11 Home 24H2
 
