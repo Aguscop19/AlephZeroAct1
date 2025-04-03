@@ -1,5 +1,5 @@
 MA3001B - Módulo de Cómputo en la Nube
-# **Actividad semana 2 - Equipo AlephZero ($N_0$)**
+# **Actividad semana 2 - Equipo AlephZero ($ℵ_0$)**
 
 ### Pasos para la ejecución
 
@@ -15,7 +15,7 @@ MA3001B - Módulo de Cómputo en la Nube
 
 ---
 
-### ⚙️ Especificaciones mínimas
+### ⚙️ Especificaciones ideales
 
 🖥️ **Sistema Operativo:** Windows 11 Home 24H2  
 ⚡ **Procesador:** 13th Gen Intel® Core™ i7-1360P @ 2.20 GHz  
