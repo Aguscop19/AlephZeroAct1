@@ -1,5 +1,5 @@
 MA3001B - Módulo de Cómputo en la Nube
-# **Actividad semana 2 - Equipo AlephZero**
+# **Actividad semana 2 - Equipo AlephZero $N_0$**
 
 ### Pasos para la ejecución
 
