@@ -1,18 +1,26 @@
-# AlephZeroAct1
-(CLOUD COMPUTING) Actividad de la semana 2 
+# 🌩️ **AlephZeroAct1**
 
-Paso 1: Hacer un fork de la main branch
+## ☁️ Cloud Computing - Actividad de la Semana 2
 
-Paso 2: Ejecutar DatosEstandarizados.py
+### 🚀 Pasos para la ejecución
 
-Paso 3: Ejecutar model.ipynb (El modelo para clasificar se guarda en reglog.pkl)
+1️⃣ **Hacer un fork** de la `main` branch.
 
-Paso 4: Ejecutar cloud_deployment.inpynb 
+2️⃣ **Ejecutar** `DatosEstandarizados.py` 📊.
 
-Paso 5: 
+3️⃣ **Ejecutar** `model.ipynb` 🧠 *(El modelo para clasificar se guarda en `reglog.pkl`)*.
 
-Especificacion minimas: 
-Windows 11 Home 24H2
-Procesador	13th Gen Intel(R) Core(TM) i7-1360P   2.20 GHz
-RAM instalada	16.0 GB (15.7 GB utilizable)
-Ancho de bando: 45 Mbps 
+4️⃣ **Ejecutar** `cloud_deployment.ipynb` ☁️.
+
+---
+
+### ⚙️ Especificaciones mínimas
+
+🖥️ **Sistema Operativo:** Windows 11 Home 24H2  
+⚡ **Procesador:** 13th Gen Intel® Core™ i7-1360P @ 2.20 GHz  
+💾 **RAM:** 16.0 GB *(15.7 GB utilizable)*  
+🌐 **Ancho de Banda:** 45 Mbps  
+
+---
+
+💡 *Sigue los pasos con precisión para evitar errores en la implementación.* ✨
