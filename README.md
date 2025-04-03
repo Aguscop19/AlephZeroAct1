@@ -9,7 +9,7 @@ Paso 3: Ejecutar model.ipynb (El modelo para clasificar se guarda en reglog.pkl)
 
 Paso 4: Ejecutar cloud_deployment.inpynb 
 
-Paso 5: 
+Paso 5: Ejecutar la API que está en el archivo API.ipynb
 
 Especificacion minimas: 
 Windows 11 Home 24H2
