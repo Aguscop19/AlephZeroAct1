@@ -12,6 +12,8 @@
 
 4️⃣ **Ejecutar** `cloud_deployment.ipynb` ☁️.
 
+5️⃣ **Ejecutar la API** desde `API.ipynb` 🌍.
+
 ---
 
 ### ⚙️ Especificaciones mínimas
@@ -22,5 +24,3 @@
 🌐 **Ancho de Banda:** 45 Mbps  
 
 ---
-
-💡 *Sigue los pasos con precisión para evitar errores en la implementación.* ✨

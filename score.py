@@ -11,11 +11,14 @@ def init():
 
 def run(raw_data):
   try: ## Try la predicción.
-    test_data = pd.read_csv(raw_data, index_col=0)
-    X_test = test_data.drop(columns=["Bankrupt?"])
+    # Get the data from the json 
+    input_data = json.loads(raw_data)["data"][0]
+    # Convert the data to a DataFrame
+    input_data = pd.DataFrame(input_data)
+    # Make predictions
 
     # This is a logistic regression model, of sklearn
-    result = model.predict(X_test)
+    result = model.predict(input_data)
     umbral = 0.5
     result_finals = [1 if x > umbral else 0 for x in result]
 
